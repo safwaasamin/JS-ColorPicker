@@ -1,0 +1,9 @@
+#colorPicker {
+    width: 200px;
+  }
+  
+  #colorDisplay {
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+  }
